@@ -28,7 +28,7 @@
     "@acot/connection": "0.0.8",
     "@acot/runner": "0.0.7",
     "debug": "^4.3.1",
-    "emittery": "^0.7.1"
+    "emittery": "^0.8.0"
   },
   "devDependencies": {
     "@acot/types": "0.0.7"
